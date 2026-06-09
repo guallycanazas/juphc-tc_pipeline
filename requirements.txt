@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-talisman
+gunicorn
+nose
+coverage
+flake8
+pylint
